@@ -1,7 +1,7 @@
 # Vanguard A/B Test – Digital Process Redesign
 
 > Ironhack Data Analytics Bootcamp – Project 2 (Weeks 5–6)
-> **Team:** Juliana Therezo · Raquel · Lervin
+> **Team:** Juliana Therezo · Raquel Marques · Lervin
 
 ## 📌 Project overview
 
