@@ -63,7 +63,7 @@ Open the notebooks in VS Code or Jupyter and run them top to bottom. They read t
 - **Data cleaning 1 – Client Profiles:** (Lervin)
 ## 🧹 Data Cleaning & Client Profile (`df_final_demo`)
 
-- We audited and cleaned the master customer dataset (totaling **70,609** clients, including **[Insert Male Count]** male and **[Insert Female Count]** female users) to remove missing values and manage high-net-worth outliers.
+- We audited and cleaned the master customer dataset (totaling **70,609** clients.
 
 ### 🎯 Core Persona Highlights
 * **Age:** Median age of **47 years** (middle 50% between 32.5 and 59).
