@@ -60,7 +60,19 @@ Open the notebooks in VS Code or Jupyter and run them top to bottom. They read t
 
 ## 🧹 Data cleaning
 
-- **Data cleaning 1 – Client Profiles:** _TBD (Lervin)_
+- **Data cleaning 1 – Client Profiles:** (Lervin)
+## 🧹 Data Cleaning & Client Profile (`df_final_demo`)
+
+- We audited and cleaned the master customer dataset (totaling **70,609** clients.
+
+### 🎯 Core Persona Highlights
+* **Age:** Median age of **47 years** (middle 50% between 32.5 and 59).
+* **Tenure:** Highly loyal base with a median tenure of **11 years** with Vanguard.
+* **Wealth:** Median account balance of **$63,333** (skewed up to an average of $147,445 by a $16.3M outlier).
+* **Digital Habits:** Active users averaging **5.57 logins** and **3.38 service calls** over the last 6 months.
+
+> **💡 Takeaway:** Vanguard's online traffic is driven by loyal, financially established, middle-aged clients with long-standing accounts.
+
 - **Data cleaning 2 – Digital Footprints:** _TBD (Raquel)_
 - **Data cleaning 3 – Experiment Roster:** 70,609 clients, with no duplicates or invalid IDs. 20,109 clients (28.5 %) have no group (`NA`), so they were not part of the experiment and are removed. That leaves **50,500 clients: 26,968 Test (53.4 %) and 23,532 Control (46.6 %)**. The column was renamed `Variation → variation` and stored as a category. Output: `data/clean/experiment_clients_clean.csv`.
 
