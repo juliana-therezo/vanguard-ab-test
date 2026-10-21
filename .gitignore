@@ -3,6 +3,18 @@ data/raw/*
 data/clean/*
 !data/raw/.gitkeep
 !data/clean/.gitkeep
+# keep the small cleaned files and the zipped merge in the repo
+!data/clean/experiment_clients_clean.csv
+!data/clean/data_clean_df_final_demo_clean.csv
+!data/clean/df_web_clean.zip
+!data/clean/vanguard_master_merged.zip
+# too large for GitHub (> 50 MB)
+data/clean/vanguard_master_merged.csv
+
+# Tableau extracts and backups
+*.hyper
+*.twbr
+tableau/Backups/
 
 # Python / Jupyter
 __pycache__/
@@ -15,4 +27,5 @@ venv/
 # OS / editors
 .DS_Store
 Thumbs.db
+desktop.ini
 .vscode/
