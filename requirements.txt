@@ -6,3 +6,5 @@ scipy
 statsmodels
 jupyter
 ipykernel
+streamlit
+altair
