@@ -18,7 +18,7 @@ From **15 Mar 2017 to 20 Jun 2017**, Vanguard's Customer Experience (CX) team ra
 | What | Link |
 |---|---|
 | 📊 Tableau Public dashboard | [Vanguard AB Test – Dashboard](https://public.tableau.com/app/profile/juliana.therezo/viz/VanguardABTest_Dashboard/Overview) |
-| 🖥️ Presentation slides | _To be uploaded_ |
+| 🖥️ Presentation slides | [Vanguard_AB_test_Ravenclaw.pdf](slides/Vanguard_AB_test_Ravenclaw.pdf) |
 | 📋 Kanban board (Trello) | https://trello.com/b/jXS0m9Dt/vanguard-a-b-test-project-2-juliana-raquel-lervin |
 | 📂 Data sources (folder) | https://github.com/data-bootcamp-v4/lessons/tree/main/5_6_eda_inf_stats_tableau/project/files_for_project |
 
@@ -70,7 +70,8 @@ vanguard-ab-test/
 ├── tableau/
 │   └── Vanguard AB Test_Dashboard.twbx   # final Tableau workbook
 ├── slides/
-│   └── icons/                   # icons used in the presentation (deck to be uploaded)
+│   ├── Vanguard_AB_test_Ravenclaw.pdf   # final presentation
+│   └── icons/                   # icons used in the presentation
 ├── requirements.txt
 └── README.md
 ```
